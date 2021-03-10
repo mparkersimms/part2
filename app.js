@@ -32,7 +32,7 @@ let waypoints = [
     [47.04448, -122.84403], [47.04096, -122.85318], [47.04069, -122.86692],
     [47.03659, -122.876], [47.03476, -122.88901], [47.02955, -122.89436],
     [47.02512, -122.89929], [47.02346, -122.90408], [47.02075, -122.90645],
-    [47.01614, -122.90598]];
+    [47.01614, -122.90598]];  
 function initMap() {
     const directionsService = new google.maps.DirectionsService();
     const directionsRenderer = new google.maps.DirectionsRenderer();
